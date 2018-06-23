@@ -1,0 +1,18 @@
+div.tabel{
+  margin: auto;
+  width: 1500px;
+}
+span{
+  padding: 10px;
+}
+
+span.left{
+
+  direction: rtl;
+  text-align: left;
+}
+span.right{
+
+  direction: ltr;
+  text-align: right;
+}
